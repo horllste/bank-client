@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://api.pietrzakadrian.com/bank';
+const API_BASE_URL = 'https://bank-server-101.herokuapp.com';
 const AUTH = 'Auth';
 const USERS = 'Users';
 const CURRENCIES = 'Currencies';
